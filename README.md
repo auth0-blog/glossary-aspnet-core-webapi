@@ -19,8 +19,13 @@ The following article describes the implementation details: [Permission-Based Se
 5. Point your browser to `https://localhost:5001/swagger` to test the available endpoints and actions.
 
 ![webapi-swagger-ui](https://images.ctfassets.net/23aumh6u8s0i/1rNBChKdbCr9fKdpbbYcKR/014f6ace0411febc726959cd88ed8e6a/protected-swagger-ui-webapi.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fauth0-blog%2Fglossary-aspnet-core-webapi.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fauth0-blog%2Fglossary-aspnet-core-webapi?ref=badge_shield)
 
 ## Requirements:
 
 - [.NET Core SDK](https://dotnet.microsoft.com/download/dotnet/current) installed on your machine
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fauth0-blog%2Fglossary-aspnet-core-webapi.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fauth0-blog%2Fglossary-aspnet-core-webapi?ref=badge_large)
